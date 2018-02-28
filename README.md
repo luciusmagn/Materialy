@@ -6,7 +6,7 @@ Prezentace ovšem nejsou jedinými materiály na studium. Pro ty, co
 nejsou fyzicky přítomni na hodinách a ty co to nepochytili všecho, jsem vytvořil stránku,
 která detailně popisuje co a jak máte dělat.
 
-Odkaz: <http://magnusi.tech/rgjk>
+Odkaz: <http://magnusi.tech/rgjk> resp. <https://github.com/luciusmagn/magnusi.tech/blob/master/web/rgjk.md>
 
 Jsou také materiály, které jsou používány komunitou obecně. Všechny jsou
 v angličtině, ale to by snad neměl být problém.
